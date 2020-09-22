@@ -10,3 +10,5 @@ Get rid of the prompt
 sudo chmod -R 755 /usr/local/share/zsh
 sudo chmod -R 755 /usr/local/share/zsh/site-functions
 ```
+
+To get Magnet to work properly: iTerm2 Preferences - Advanced - Windows - Terminal Windows resize smoothly - Yes
